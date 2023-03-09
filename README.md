@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/loganwotson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loganwotson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganwotson&layout=compact&langs_count=8&theme=dark&anuraghazra.github.io"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganwotson&layout=compact&langs_count=10&theme=dark&anuraghazra.github.io"/>
 </div>
   
 <div style="display: inline_block"><br>
